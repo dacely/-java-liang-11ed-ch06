@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class L12_PrintCalendar
 {
-    // test
     public static void main(String[] args)
     {
         Scanner input = new Scanner(System.in);
